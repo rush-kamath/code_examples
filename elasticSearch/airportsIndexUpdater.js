@@ -4,8 +4,8 @@ const cities = require('./cities_compressed.json');
 const AWS = require("aws-sdk");
 AWS.config.update({
     region: "us-east-1",
-    accessKeyId: "AKIAIYJJRBZWFRCK555Q",
-    secretAccessKey: "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"
+    accessKeyId: "",
+    secretAccessKey: ""
 });
 
 
