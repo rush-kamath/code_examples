@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John",
+    "age": 21,
+    "dob": 638462369000,
+    "language": ["JavaScript", "PHP", "Python"]
+  },
+  {
+    "name": "Smith",
+    "age": 25,
+    "dob": 654705569000,
+    "language": ["PHP", "Go", "JavaScript"]
+  }
+]
